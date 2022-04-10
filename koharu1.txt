@@ -1,3 +1,4 @@
 テキストファイル
 branch1
 branch2
+branchA
